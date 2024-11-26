@@ -4,3 +4,5 @@ push:
 	git commit -am "Release"
 	git push
 
+test:
+	bash tests/bare/simple-test.sh
