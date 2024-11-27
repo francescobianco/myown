@@ -1,4 +1,4 @@
-# myown
+# 📂 myown
 
 **myown** is a simple yet powerful shell script that ensures you can always keep working on your projects without permission headaches. It aligns the ownership of files and directories to your current user, supporting both regular and recursive operations.
 
