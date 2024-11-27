@@ -25,7 +25,7 @@ To install **myown**, follow these simple steps:
 
 1. Download the script:
    ```bash
-   curl -o myown https://raw.githubusercontent.com/francescobianco/myown/main/bin/myown
+   curl -o myown https://raw.githubusercontent.com/francescobianco/myown/refs/heads/main/bin/myown
    ```
 
 2. Copy the script to `/usr/local/bin`:
@@ -98,3 +98,7 @@ Be cautious when using the `-r` flag on large directories to avoid unintended ch
 ## Author
 
 Created out of necessity by a developer frustrated with permission issues in modern workflows, **myown** is here to make your life easier. Give it a try, and never let permission problems interrupt your development again.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
